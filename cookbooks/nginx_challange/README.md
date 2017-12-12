@@ -1,4 +1,3 @@
 # nginx_challange
-
-TODO: Enter the cookbook description here.
+Installs the nignix in a instance and display Hello world challange in the browser 
 
